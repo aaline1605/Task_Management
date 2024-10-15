@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: "mongodb+srv://aalinemarsh1610:VVwEGFbbVN14YPdc@cluster0.vh2ap.mongodb.net/task_management"
